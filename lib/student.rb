@@ -8,7 +8,7 @@ class Student < User
     @knowledge << str
   end
 
-  def knowledge
+  def knowledge # returns Students knowledge arrayS
     @knowledge
   end
 
