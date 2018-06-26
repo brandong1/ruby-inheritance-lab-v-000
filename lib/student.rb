@@ -8,4 +8,13 @@ class Student < User
     knowledge << @knowledge
   end
 
+  def learn("")
+
+  end
+
+  def knowledge
+
+
+  end
+
 end
