@@ -8,7 +8,7 @@ class Student < User
     knowledge << str
   end
 
-  def learn("")
+  def learn
 
   end
 
